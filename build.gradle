@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+allprojects {
+
+    group 'com.sk.ecs'
+
+    repositories {
+        mavenCentral()
+    }
+
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+}
