@@ -2,5 +2,5 @@ rootProject.name = 'api'
 
 include ':common'
 include ':server-mongodb'
-include 'server-postgresql'
+include ':server-postgresql'
 
