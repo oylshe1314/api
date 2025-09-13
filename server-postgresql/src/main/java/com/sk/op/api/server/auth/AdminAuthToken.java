@@ -1,6 +1,5 @@
 package com.sk.op.api.server.auth;
 
-import com.sk.op.api.server.auth.AdminDetails;
 import org.springframework.security.authentication.AbstractAuthenticationToken;
 
 public class AdminAuthToken extends AbstractAuthenticationToken {

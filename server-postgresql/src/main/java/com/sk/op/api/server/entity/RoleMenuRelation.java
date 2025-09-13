@@ -1,6 +1,5 @@
 package com.sk.op.api.server.entity;
 
-
 import com.sk.op.api.server.entity.base.EntityIdentity;
 import jakarta.persistence.*;
 import lombok.Getter;
